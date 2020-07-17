@@ -1,0 +1,1114 @@
+2019-11-22 11:45:20,852 - [test_case.py-->line:52] -INFO: 完整参数用例执行通过
+2019-11-22 11:45:21,151 - [test_case.py-->line:52] -INFO: 无注册名用例执行通过
+2019-11-22 11:45:21,438 - [test_case.py-->line:52] -INFO: 无类型用例执行通过
+2019-11-22 11:45:21,723 - [test_case.py-->line:52] -INFO: 无注册名和类型用例执行通过
+2019-11-22 11:45:22,021 - [test_case.py-->line:52] -INFO: 手机号为空用例执行通过
+2019-11-22 11:45:22,317 - [test_case.py-->line:52] -INFO: 手机号小于11位用例执行通过
+2019-11-22 11:45:22,590 - [test_case.py-->line:52] -INFO: 手机号大于11位用例执行通过
+2019-11-22 11:45:22,864 - [test_case.py-->line:52] -INFO: 密码为空用例执行通过
+2019-11-22 11:45:23,137 - [test_case.py-->line:52] -INFO: 密码小于8位用例执行通过
+2019-11-22 11:45:23,410 - [test_case.py-->line:52] -INFO: 密码大于16位用例执行通过
+2019-11-22 11:45:23,696 - [test_case.py-->line:52] -INFO: 手机号已注册用例执行通过
+2019-11-22 11:45:24,038 - [test_case.py-->line:52] -INFO: 密码字段未传用例执行通过
+2019-11-22 11:45:24,307 - [test_case.py-->line:52] -INFO: 手机号字段未传用例执行通过
+2019-11-22 20:51:14,387 - [test_case.py-->line:62] -INFO: 完整参数用例执行通过
+2019-11-22 20:51:14,741 - [test_case.py-->line:62] -INFO: 无注册名用例执行通过
+2019-11-22 20:51:15,067 - [test_case.py-->line:62] -INFO: 无类型用例执行通过
+2019-11-22 20:51:15,346 - [test_case.py-->line:62] -INFO: 无注册名和类型用例执行通过
+2019-11-22 20:51:15,398 - [test_case.py-->line:62] -INFO: 手机号为空用例执行通过
+2019-11-22 20:51:15,453 - [test_case.py-->line:62] -INFO: 手机号小于11位用例执行通过
+2019-11-22 20:51:15,509 - [test_case.py-->line:62] -INFO: 手机号大于11位用例执行通过
+2019-11-22 20:51:15,802 - [test_case.py-->line:62] -INFO: 密码为空用例执行通过
+2019-11-22 20:51:16,083 - [test_case.py-->line:62] -INFO: 密码小于8位用例执行通过
+2019-11-22 20:51:16,348 - [test_case.py-->line:62] -INFO: 密码大于16位用例执行通过
+2019-11-22 20:51:16,411 - [test_case.py-->line:62] -INFO: 手机号已注册用例执行通过
+2019-11-22 20:51:16,682 - [test_case.py-->line:62] -INFO: 密码字段未传用例执行通过
+2019-11-22 20:51:16,738 - [test_case.py-->line:62] -INFO: 手机号字段未传用例执行通过
+2019-11-22 20:54:15,077 - [test_case.py-->line:62] -INFO: 完整参数用例执行通过
+2019-11-22 20:54:15,451 - [test_case.py-->line:62] -INFO: 无注册名用例执行通过
+2019-11-22 20:54:15,770 - [test_case.py-->line:62] -INFO: 无类型用例执行通过
+2019-11-22 20:54:16,066 - [test_case.py-->line:62] -INFO: 无注册名和类型用例执行通过
+2019-11-22 20:54:16,134 - [test_case.py-->line:62] -INFO: 手机号为空用例执行通过
+2019-11-22 20:54:16,203 - [test_case.py-->line:62] -INFO: 手机号小于11位用例执行通过
+2019-11-22 20:54:16,271 - [test_case.py-->line:62] -INFO: 手机号大于11位用例执行通过
+2019-11-22 20:54:16,554 - [test_case.py-->line:62] -INFO: 密码为空用例执行通过
+2019-11-22 20:54:16,831 - [test_case.py-->line:62] -INFO: 密码小于8位用例执行通过
+2019-11-22 20:54:17,121 - [test_case.py-->line:62] -INFO: 密码大于16位用例执行通过
+2019-11-22 20:54:17,194 - [test_case.py-->line:62] -INFO: 手机号已注册用例执行通过
+2019-11-22 20:54:17,493 - [test_case.py-->line:62] -INFO: 密码字段未传用例执行通过
+2019-11-22 20:54:17,556 - [test_case.py-->line:62] -INFO: 手机号字段未传用例执行通过
+2019-11-22 20:55:12,283 - [test_case.py-->line:62] -INFO: 完整参数用例执行通过
+2019-11-22 20:55:12,710 - [test_case.py-->line:62] -INFO: 无注册名用例执行通过
+2019-11-22 20:55:13,005 - [test_case.py-->line:62] -INFO: 无类型用例执行通过
+2019-11-22 20:55:13,310 - [test_case.py-->line:62] -INFO: 无注册名和类型用例执行通过
+2019-11-22 20:55:13,386 - [test_case.py-->line:62] -INFO: 手机号为空用例执行通过
+2019-11-22 20:55:13,461 - [test_case.py-->line:62] -INFO: 手机号小于11位用例执行通过
+2019-11-22 20:55:13,538 - [test_case.py-->line:62] -INFO: 手机号大于11位用例执行通过
+2019-11-22 20:55:13,822 - [test_case.py-->line:62] -INFO: 密码为空用例执行通过
+2019-11-22 20:55:14,113 - [test_case.py-->line:62] -INFO: 密码小于8位用例执行通过
+2019-11-22 20:55:14,387 - [test_case.py-->line:62] -INFO: 密码大于16位用例执行通过
+2019-11-22 20:55:14,473 - [test_case.py-->line:62] -INFO: 手机号已注册用例执行通过
+2019-11-22 20:55:14,765 - [test_case.py-->line:62] -INFO: 密码字段未传用例执行通过
+2019-11-22 20:55:14,842 - [test_case.py-->line:62] -INFO: 手机号字段未传用例执行通过
+2019-11-22 20:56:26,894 - [test_case.py-->line:62] -INFO: 完整参数用例执行通过
+2019-11-22 20:56:27,208 - [test_case.py-->line:62] -INFO: 无注册名用例执行通过
+2019-11-22 20:56:27,513 - [test_case.py-->line:62] -INFO: 无类型用例执行通过
+2019-11-22 20:56:27,837 - [test_case.py-->line:62] -INFO: 无注册名和类型用例执行通过
+2019-11-22 20:56:27,918 - [test_case.py-->line:62] -INFO: 手机号为空用例执行通过
+2019-11-22 20:56:27,998 - [test_case.py-->line:62] -INFO: 手机号小于11位用例执行通过
+2019-11-22 20:56:28,074 - [test_case.py-->line:62] -INFO: 手机号大于11位用例执行通过
+2019-11-22 20:56:28,361 - [test_case.py-->line:62] -INFO: 密码为空用例执行通过
+2019-11-22 20:56:28,668 - [test_case.py-->line:62] -INFO: 密码小于8位用例执行通过
+2019-11-22 20:56:28,951 - [test_case.py-->line:62] -INFO: 密码大于16位用例执行通过
+2019-11-22 20:56:29,036 - [test_case.py-->line:62] -INFO: 手机号已注册用例执行通过
+2019-11-22 20:56:29,349 - [test_case.py-->line:62] -INFO: 密码字段未传用例执行通过
+2019-11-22 20:56:29,426 - [test_case.py-->line:62] -INFO: 手机号字段未传用例执行通过
+2019-11-22 21:00:00,580 - [test_case.py-->line:56] -INFO: 完整参数用例执行有误
+2019-11-22 21:00:00,616 - [test_case.py-->line:60] -ERROR: 具体异常为完整参数 :: 0 != {'code': 0,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': {'id': 14054, 'mobile_phone': '18841065782', 'reg_name': 'Xmj'},
+ 'msg': 'OK'}
+2019-11-22 21:00:00,919 - [test_case.py-->line:56] -INFO: 无注册名用例执行有误
+2019-11-22 21:00:00,947 - [test_case.py-->line:60] -ERROR: 具体异常为无注册名 :: 0 != {'code': 0,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': {'id': 14055, 'mobile_phone': '18831507846', 'reg_name': '小柠檬'},
+ 'msg': 'OK'}
+2019-11-22 21:00:01,261 - [test_case.py-->line:56] -INFO: 无类型用例执行有误
+2019-11-22 21:00:01,290 - [test_case.py-->line:60] -ERROR: 具体异常为无类型 :: 0 != {'code': 0,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': {'id': 14056, 'mobile_phone': '18821640897', 'reg_name': 'Xmj'},
+ 'msg': 'OK'}
+2019-11-22 21:00:01,621 - [test_case.py-->line:56] -INFO: 无注册名和类型用例执行有误
+2019-11-22 21:00:01,653 - [test_case.py-->line:60] -ERROR: 具体异常为无注册名和类型 :: 0 != {'code': 0,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': {'id': 14057, 'mobile_phone': '18813879250', 'reg_name': '小柠檬'},
+ 'msg': 'OK'}
+2019-11-22 21:00:01,733 - [test_case.py-->line:56] -INFO: 手机号为空用例执行有误
+2019-11-22 21:00:01,761 - [test_case.py-->line:60] -ERROR: 具体异常为手机号为空 :: 1 != {'code': 1,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '手机号为空'}
+2019-11-22 21:00:01,840 - [test_case.py-->line:56] -INFO: 手机号小于11位用例执行有误
+2019-11-22 21:00:01,869 - [test_case.py-->line:60] -ERROR: 具体异常为手机号小于11位 :: 2 != {'code': 2,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '无效的手机格式'}
+2019-11-22 21:00:01,970 - [test_case.py-->line:56] -INFO: 手机号大于11位用例执行有误
+2019-11-22 21:00:02,004 - [test_case.py-->line:60] -ERROR: 具体异常为手机号大于11位 :: 2 != {'code': 2,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '无效的手机格式'}
+2019-11-22 21:00:02,309 - [test_case.py-->line:56] -INFO: 密码为空用例执行有误
+2019-11-22 21:00:02,340 - [test_case.py-->line:60] -ERROR: 具体异常为密码为空 :: 1 != {'code': 1,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '密码为空'}
+2019-11-22 21:00:02,640 - [test_case.py-->line:56] -INFO: 密码小于8位用例执行有误
+2019-11-22 21:00:02,674 - [test_case.py-->line:60] -ERROR: 具体异常为密码小于8位 :: 2 != {'code': 2,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '密码格式为8到16位'}
+2019-11-22 21:00:02,991 - [test_case.py-->line:56] -INFO: 密码大于16位用例执行有误
+2019-11-22 21:00:03,033 - [test_case.py-->line:60] -ERROR: 具体异常为密码大于16位 :: 2 != {'code': 2,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '密码格式为8到16位'}
+2019-11-22 21:00:03,128 - [test_case.py-->line:56] -INFO: 手机号已注册用例执行有误
+2019-11-22 21:00:03,161 - [test_case.py-->line:60] -ERROR: 具体异常为手机号已注册 :: 2 != {'code': 2,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '账号已存在'}
+2019-11-22 21:00:03,589 - [test_case.py-->line:56] -INFO: 密码字段未传用例执行有误
+2019-11-22 21:00:03,625 - [test_case.py-->line:60] -ERROR: 具体异常为密码字段未传 :: 1 != {'code': 1,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '密码为空'}
+2019-11-22 21:00:03,712 - [test_case.py-->line:56] -INFO: 手机号字段未传用例执行有误
+2019-11-22 21:00:03,750 - [test_case.py-->line:60] -ERROR: 具体异常为手机号字段未传 :: 1 != {'code': 1,
+ 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved',
+ 'data': None,
+ 'msg': '手机号为空'}
+2019-11-22 21:00:47,233 - [test_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-22 21:00:47,564 - [test_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-22 21:00:47,899 - [test_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-22 21:00:48,245 - [test_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-22 21:00:48,345 - [test_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-22 21:00:48,448 - [test_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-22 21:00:48,547 - [test_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-22 21:00:48,869 - [test_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-22 21:00:49,175 - [test_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-22 21:00:49,484 - [test_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-22 21:00:49,591 - [test_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-22 21:00:49,896 - [test_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-22 21:00:49,994 - [test_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 11:54:37,860 - [test_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 11:54:38,226 - [test_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 11:54:38,555 - [test_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 11:54:38,901 - [test_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 11:54:39,007 - [test_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 11:54:39,111 - [test_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 11:54:39,213 - [test_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 11:54:39,529 - [test_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 11:54:39,856 - [test_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 11:54:40,175 - [test_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 11:54:40,290 - [test_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 11:54:40,609 - [test_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 11:54:40,714 - [test_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 12:15:13,194 - [test_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 12:15:13,586 - [test_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 12:15:13,976 - [test_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 12:15:14,364 - [test_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 12:15:14,480 - [test_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 12:15:14,594 - [test_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 12:15:14,704 - [test_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 12:15:15,036 - [test_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 12:15:15,362 - [test_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 12:15:15,678 - [test_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 12:15:15,793 - [test_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 12:15:16,097 - [test_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 12:15:16,199 - [test_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 15:45:40,433 - [test_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 15:45:40,781 - [test_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 15:45:41,127 - [test_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 15:45:41,475 - [test_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 15:45:41,590 - [test_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 15:45:41,702 - [test_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 15:45:41,814 - [test_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 15:45:42,139 - [test_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 15:45:42,471 - [test_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 15:45:42,799 - [test_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 15:45:42,924 - [test_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 15:45:43,254 - [test_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 15:45:43,371 - [test_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 15:45:43,503 - [test_login_case.py-->line:59] -INFO: 正常登录用例执行有误
+2019-11-23 15:45:43,536 - [test_login_case.py-->line:63] -ERROR: 具体异常为0 != 1001 : 正常登录
+2019-11-23 15:45:43,671 - [test_login_case.py-->line:66] -INFO: 手机号为空用例执行通过
+2019-11-23 15:45:43,799 - [test_login_case.py-->line:66] -INFO: 手机号不传用例执行通过
+2019-11-23 15:45:44,134 - [test_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-23 15:45:44,251 - [test_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-23 15:45:44,363 - [test_login_case.py-->line:66] -INFO: 密码为空用例执行通过
+2019-11-23 15:45:44,488 - [test_login_case.py-->line:66] -INFO: 密码不传用例执行通过
+2019-11-23 15:45:44,617 - [test_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-23 15:45:44,738 - [test_login_case.py-->line:66] -INFO: 密码手机号都为空用例执行通过
+2019-11-23 15:45:44,853 - [test_login_case.py-->line:66] -INFO: 密码手机号都不传用例执行通过
+2019-11-23 15:50:19,492 - [test_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 15:50:19,846 - [test_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 15:50:20,180 - [test_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 15:50:20,511 - [test_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 15:50:20,624 - [test_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 15:50:20,730 - [test_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 15:50:20,838 - [test_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 15:50:21,158 - [test_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 15:50:21,482 - [test_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 15:50:21,821 - [test_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 15:50:21,946 - [test_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 15:50:22,264 - [test_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 15:50:22,379 - [test_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 15:50:22,515 - [test_login_case.py-->line:59] -INFO: 正常登录用例执行有误
+2019-11-23 15:50:22,550 - [test_login_case.py-->line:63] -ERROR: 具体异常为0 != 1001 : 正常登录
+2019-11-23 15:50:22,645 - [test_login_case.py-->line:66] -INFO: 手机号为空用例执行通过
+2019-11-23 15:50:22,757 - [test_login_case.py-->line:66] -INFO: 手机号不传用例执行通过
+2019-11-23 15:50:23,109 - [test_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-23 15:50:23,224 - [test_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-23 15:50:23,340 - [test_login_case.py-->line:66] -INFO: 密码为空用例执行通过
+2019-11-23 15:50:23,449 - [test_login_case.py-->line:66] -INFO: 密码不传用例执行通过
+2019-11-23 15:50:23,573 - [test_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-23 15:50:23,687 - [test_login_case.py-->line:66] -INFO: 密码手机号都为空用例执行通过
+2019-11-23 15:50:23,793 - [test_login_case.py-->line:66] -INFO: 密码手机号都不传用例执行通过
+2019-11-23 15:53:02,847 - [test_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 15:53:03,220 - [test_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 15:53:03,557 - [test_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 15:53:03,888 - [test_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 15:53:03,996 - [test_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 15:53:04,107 - [test_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 15:53:04,219 - [test_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 15:53:04,546 - [test_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 15:53:04,887 - [test_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 15:53:05,216 - [test_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 15:53:05,341 - [test_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 15:53:05,673 - [test_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 15:53:05,798 - [test_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-23 15:53:05,935 - [test_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-23 15:53:06,060 - [test_login_case.py-->line:66] -INFO: 手机号为空用例执行通过
+2019-11-23 15:53:06,168 - [test_login_case.py-->line:66] -INFO: 手机号不传用例执行通过
+2019-11-23 15:53:06,505 - [test_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-23 15:53:06,621 - [test_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-23 15:53:06,746 - [test_login_case.py-->line:66] -INFO: 密码为空用例执行通过
+2019-11-23 15:53:06,861 - [test_login_case.py-->line:66] -INFO: 密码不传用例执行通过
+2019-11-23 15:53:06,993 - [test_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-23 15:53:07,129 - [test_login_case.py-->line:66] -INFO: 密码手机号都为空用例执行通过
+2019-11-23 15:53:07,243 - [test_login_case.py-->line:66] -INFO: 密码手机号都不传用例执行通过
+2019-11-23 16:03:15,561 - [test_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-23 16:03:15,689 - [test_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-23 16:03:15,724 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-23 16:03:15,809 - [test_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-23 16:03:15,845 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-23 16:03:16,176 - [test_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-23 16:03:16,296 - [test_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-23 16:03:16,424 - [test_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-23 16:03:16,459 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-23 16:03:16,552 - [test_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-23 16:03:16,590 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-23 16:03:16,686 - [test_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-23 16:03:16,810 - [test_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-23 16:03:16,848 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-23 16:03:16,953 - [test_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-23 16:03:16,992 - [test_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-23 16:03:17,322 - [test_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-23 16:03:17,682 - [test_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-23 16:03:18,038 - [test_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-23 16:03:18,393 - [test_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-23 16:03:18,515 - [test_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-23 16:03:18,642 - [test_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-23 16:03:18,754 - [test_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-23 16:03:19,079 - [test_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-23 16:03:19,411 - [test_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-23 16:03:19,747 - [test_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-23 16:03:19,873 - [test_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-23 16:03:20,207 - [test_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-23 16:03:20,319 - [test_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-24 14:47:23,193 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 14:56:04,804 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 14:56:04,973 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 14:56:05,184 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 14:56:05,393 - [test_03_recharge.py-->line:78] -INFO: 成功充值-一位小数用例执行有误
+2019-11-24 14:56:05,440 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为成功充值-一位小数 :: 6300.3 != 6300.299999999999
+2019-11-24 14:56:05,613 - [test_03_recharge.py-->line:78] -INFO: 成功充值-两位小数用例执行有误
+2019-11-24 14:56:05,659 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为成功充值-两位小数 :: 6300.33 != 6300.330000000002
+2019-11-24 14:56:05,831 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 14:56:05,975 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 14:56:06,259 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 14:56:06,397 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 14:56:06,543 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 14:56:06,600 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为空 :: 1 != 2
+2019-11-24 14:56:06,707 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 14:56:06,755 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为0 :: 2 != 0
+2019-11-24 14:56:06,855 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 14:56:06,990 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 14:56:07,124 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 14:56:07,258 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 14:56:07,391 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 14:58:33,092 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-24 14:58:33,240 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-24 14:58:33,385 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-24 14:58:33,979 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-24 14:58:34,268 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-24 14:58:34,474 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-24 14:58:34,618 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-24 14:58:34,680 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-24 14:58:34,775 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-24 14:58:34,821 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-24 14:58:35,070 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-24 14:58:35,214 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-24 14:58:35,261 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-24 14:58:35,358 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-24 14:58:35,405 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-24 14:58:35,517 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-24 14:58:35,656 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-24 14:58:35,703 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-24 14:58:35,800 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-24 14:58:35,846 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-24 14:58:36,131 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 14:58:36,274 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 14:58:36,495 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 14:58:36,715 - [test_03_recharge.py-->line:78] -INFO: 成功充值-一位小数用例执行有误
+2019-11-24 14:58:36,762 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为6300.3 != 6300.300000000047 : 成功充值-一位小数
+2019-11-24 14:58:36,935 - [test_03_recharge.py-->line:78] -INFO: 成功充值-两位小数用例执行有误
+2019-11-24 14:58:36,982 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为6300.33 != 6300.329999999958 : 成功充值-两位小数
+2019-11-24 14:58:37,148 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 14:58:37,276 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 14:58:37,552 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 14:58:37,685 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 14:58:37,815 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 14:58:37,859 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-24 14:58:37,958 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 14:58:38,000 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-24 14:58:38,091 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 14:58:38,224 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 14:58:38,358 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 14:58:38,489 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 14:58:38,624 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 15:02:57,255 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-24 15:02:57,622 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-24 15:02:57,992 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-24 15:02:58,359 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-24 15:02:58,485 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-24 15:02:58,615 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-24 15:02:58,746 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-24 15:02:59,099 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-24 15:02:59,445 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-24 15:02:59,795 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-24 15:02:59,940 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-24 15:03:00,289 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-24 15:03:00,420 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-24 15:03:00,608 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-24 15:03:00,739 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-24 15:03:00,779 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-24 15:03:00,870 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-24 15:03:00,912 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-24 15:03:01,236 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-24 15:03:01,366 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-24 15:03:01,499 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-24 15:03:01,544 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-24 15:03:01,635 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-24 15:03:01,680 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-24 15:03:01,791 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-24 15:03:01,921 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-24 15:03:01,966 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-24 15:03:02,057 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-24 15:03:02,098 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-24 15:03:02,383 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:03:02,524 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:03:02,740 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 15:03:02,951 - [test_03_recharge.py-->line:85] -INFO: 成功充值-一位小数用例执行通过
+2019-11-24 15:03:03,165 - [test_03_recharge.py-->line:85] -INFO: 成功充值-两位小数用例执行通过
+2019-11-24 15:03:03,377 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 15:03:03,513 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 15:03:03,853 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:03:03,894 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1001 != 1007 : id不存在
+2019-11-24 15:03:03,983 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 15:03:04,118 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 15:03:04,254 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:03:04,312 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-24 15:03:04,413 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:03:04,456 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-24 15:03:04,546 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 15:03:04,682 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 15:03:04,816 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 15:03:04,948 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 15:03:05,081 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 15:06:58,487 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:06:58,756 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:06:59,033 - [test_03_recharge.py-->line:78] -INFO: 成功充值-整数用例执行有误
+2019-11-24 15:06:59,331 - [test_03_recharge.py-->line:78] -INFO: 成功充值-一位小数用例执行有误
+2019-11-24 15:06:59,628 - [test_03_recharge.py-->line:78] -INFO: 成功充值-两位小数用例执行有误
+2019-11-24 15:06:59,896 - [test_03_recharge.py-->line:78] -INFO: 成功充值50万用例执行有误
+2019-11-24 15:07:00,102 - [test_03_recharge.py-->line:78] -INFO: id为空用例执行有误
+2019-11-24 15:07:00,564 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:07:00,763 - [test_03_recharge.py-->line:78] -INFO: id为字符串用例执行有误
+2019-11-24 15:07:00,969 - [test_03_recharge.py-->line:78] -INFO: id为浮点数用例执行有误
+2019-11-24 15:07:01,171 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:07:01,372 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:07:01,571 - [test_03_recharge.py-->line:78] -INFO: 金额大于50万用例执行有误
+2019-11-24 15:07:01,773 - [test_03_recharge.py-->line:78] -INFO: 金额三位小数用例执行有误
+2019-11-24 15:07:01,976 - [test_03_recharge.py-->line:78] -INFO: 金额为负数用例执行有误
+2019-11-24 15:07:02,175 - [test_03_recharge.py-->line:78] -INFO: 金额为字符串用例执行有误
+2019-11-24 15:07:02,371 - [test_03_recharge.py-->line:78] -INFO: id和金额都为空用例执行有误
+2019-11-24 15:07:19,138 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:07:19,340 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:07:19,606 - [test_03_recharge.py-->line:78] -INFO: 成功充值-整数用例执行有误
+2019-11-24 15:07:19,872 - [test_03_recharge.py-->line:78] -INFO: 成功充值-一位小数用例执行有误
+2019-11-24 15:07:20,139 - [test_03_recharge.py-->line:78] -INFO: 成功充值-两位小数用例执行有误
+2019-11-24 15:07:20,403 - [test_03_recharge.py-->line:78] -INFO: 成功充值50万用例执行有误
+2019-11-24 15:07:20,600 - [test_03_recharge.py-->line:78] -INFO: id为空用例执行有误
+2019-11-24 15:07:21,086 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:07:21,281 - [test_03_recharge.py-->line:78] -INFO: id为字符串用例执行有误
+2019-11-24 15:07:21,479 - [test_03_recharge.py-->line:78] -INFO: id为浮点数用例执行有误
+2019-11-24 15:07:21,689 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:07:21,892 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:07:22,094 - [test_03_recharge.py-->line:78] -INFO: 金额大于50万用例执行有误
+2019-11-24 15:07:22,300 - [test_03_recharge.py-->line:78] -INFO: 金额三位小数用例执行有误
+2019-11-24 15:07:22,510 - [test_03_recharge.py-->line:78] -INFO: 金额为负数用例执行有误
+2019-11-24 15:07:22,723 - [test_03_recharge.py-->line:78] -INFO: 金额为字符串用例执行有误
+2019-11-24 15:07:22,921 - [test_03_recharge.py-->line:78] -INFO: id和金额都为空用例执行有误
+2019-11-24 15:15:21,071 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:15:21,194 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:15:21,357 - [test_03_recharge.py-->line:78] -INFO: 成功充值-整数用例执行有误
+2019-11-24 15:15:21,527 - [test_03_recharge.py-->line:78] -INFO: 成功充值-一位小数用例执行有误
+2019-11-24 15:15:21,691 - [test_03_recharge.py-->line:78] -INFO: 成功充值-两位小数用例执行有误
+2019-11-24 15:15:21,859 - [test_03_recharge.py-->line:78] -INFO: 成功充值50万用例执行有误
+2019-11-24 15:15:21,957 - [test_03_recharge.py-->line:78] -INFO: id为空用例执行有误
+2019-11-24 15:15:22,253 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:15:22,350 - [test_03_recharge.py-->line:78] -INFO: id为字符串用例执行有误
+2019-11-24 15:15:22,445 - [test_03_recharge.py-->line:78] -INFO: id为浮点数用例执行有误
+2019-11-24 15:15:22,551 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:15:22,651 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:15:22,750 - [test_03_recharge.py-->line:78] -INFO: 金额大于50万用例执行有误
+2019-11-24 15:15:22,845 - [test_03_recharge.py-->line:78] -INFO: 金额三位小数用例执行有误
+2019-11-24 15:15:22,943 - [test_03_recharge.py-->line:78] -INFO: 金额为负数用例执行有误
+2019-11-24 15:15:23,046 - [test_03_recharge.py-->line:78] -INFO: 金额为字符串用例执行有误
+2019-11-24 15:15:23,142 - [test_03_recharge.py-->line:78] -INFO: id和金额都为空用例执行有误
+2019-11-24 15:20:16,028 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:20:16,190 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:20:16,401 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 15:20:16,613 - [test_03_recharge.py-->line:85] -INFO: 成功充值-一位小数用例执行通过
+2019-11-24 15:20:16,823 - [test_03_recharge.py-->line:85] -INFO: 成功充值-两位小数用例执行通过
+2019-11-24 15:20:17,041 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 15:20:17,180 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 15:20:17,536 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:20:17,580 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为id不存在 :: 1001 != 1007
+2019-11-24 15:20:17,673 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 15:20:17,814 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 15:20:17,958 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:20:18,005 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为空 :: 1 != 2
+2019-11-24 15:20:18,106 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:20:18,153 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为0 :: 2 != 0
+2019-11-24 15:20:18,251 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 15:20:18,390 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 15:20:18,533 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 15:20:18,682 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 15:20:18,823 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 15:26:35,777 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:26:35,929 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:26:36,132 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 15:26:36,332 - [test_03_recharge.py-->line:85] -INFO: 成功充值-一位小数用例执行通过
+2019-11-24 15:26:36,541 - [test_03_recharge.py-->line:85] -INFO: 成功充值-两位小数用例执行通过
+2019-11-24 15:26:36,743 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 15:26:36,873 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 15:26:37,219 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:26:37,261 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为id不存在 :: 1001 != 1007
+2019-11-24 15:26:37,351 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 15:26:37,484 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 15:26:37,619 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:26:37,663 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为空 :: 1 != 2
+2019-11-24 15:26:37,765 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:26:37,808 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为金额为0 :: 2 != 0
+2019-11-24 15:26:37,905 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 15:26:38,046 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 15:26:38,185 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 15:26:38,324 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 15:26:38,466 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 15:27:20,992 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-24 15:27:21,364 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-24 15:27:21,750 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-24 15:27:22,137 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-24 15:27:22,305 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-24 15:27:22,447 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-24 15:27:22,587 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-24 15:27:22,939 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-24 15:27:23,290 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-24 15:27:23,642 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-24 15:27:23,793 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-24 15:27:24,164 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-24 15:27:24,297 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-24 15:27:24,481 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-24 15:27:24,610 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-24 15:27:24,654 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-24 15:27:24,754 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-24 15:27:24,797 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-24 15:27:25,120 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-24 15:27:25,249 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-24 15:27:25,384 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-24 15:27:25,427 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-24 15:27:25,515 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-24 15:27:25,559 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-24 15:27:25,667 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-24 15:27:25,803 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-24 15:27:25,847 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-24 15:27:25,935 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-24 15:27:25,980 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-24 15:27:26,250 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:27:26,391 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:27:26,595 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 15:27:26,801 - [test_03_recharge.py-->line:85] -INFO: 成功充值-一位小数用例执行通过
+2019-11-24 15:27:27,007 - [test_03_recharge.py-->line:85] -INFO: 成功充值-两位小数用例执行通过
+2019-11-24 15:27:27,225 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 15:27:27,358 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 15:27:27,688 - [test_03_recharge.py-->line:78] -INFO: id不存在用例执行有误
+2019-11-24 15:27:27,732 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1001 != 1007 : id不存在
+2019-11-24 15:27:27,820 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 15:27:27,952 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 15:27:28,091 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:27:28,137 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-24 15:27:28,242 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:27:28,288 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-24 15:27:28,380 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 15:27:28,515 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 15:27:28,660 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 15:27:28,796 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 15:27:28,933 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-24 15:31:04,084 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-24 15:31:04,449 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-24 15:31:04,812 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-24 15:31:05,199 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-24 15:31:05,328 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-24 15:31:05,457 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-24 15:31:05,599 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-24 15:31:05,968 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-24 15:31:06,306 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-24 15:31:06,651 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-24 15:31:06,793 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-24 15:31:07,177 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-24 15:31:07,322 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-24 15:31:07,513 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-24 15:31:07,654 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-24 15:31:07,701 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-24 15:31:07,796 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-24 15:31:07,849 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-24 15:31:08,181 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-24 15:31:08,322 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-24 15:31:08,465 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-24 15:31:08,512 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-24 15:31:08,607 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-24 15:31:08,656 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-24 15:31:08,773 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-24 15:31:08,909 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-24 15:31:08,958 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-24 15:31:09,049 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-24 15:31:09,097 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-24 15:31:09,401 - [test_03_recharge.py-->line:85] -INFO: 不登录充值用例执行通过
+2019-11-24 15:31:09,547 - [test_03_recharge.py-->line:85] -INFO: 正常登录用例执行通过
+2019-11-24 15:31:09,770 - [test_03_recharge.py-->line:85] -INFO: 成功充值-整数用例执行通过
+2019-11-24 15:31:09,997 - [test_03_recharge.py-->line:85] -INFO: 成功充值-一位小数用例执行通过
+2019-11-24 15:31:10,217 - [test_03_recharge.py-->line:85] -INFO: 成功充值-两位小数用例执行通过
+2019-11-24 15:31:10,468 - [test_03_recharge.py-->line:85] -INFO: 成功充值50万用例执行通过
+2019-11-24 15:31:10,612 - [test_03_recharge.py-->line:85] -INFO: id为空用例执行通过
+2019-11-24 15:31:10,965 - [test_03_recharge.py-->line:85] -INFO: id不存在用例执行通过
+2019-11-24 15:31:11,108 - [test_03_recharge.py-->line:85] -INFO: id为字符串用例执行通过
+2019-11-24 15:31:11,251 - [test_03_recharge.py-->line:85] -INFO: id为浮点数用例执行通过
+2019-11-24 15:31:11,395 - [test_03_recharge.py-->line:78] -INFO: 金额为空用例执行有误
+2019-11-24 15:31:11,446 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-24 15:31:11,559 - [test_03_recharge.py-->line:78] -INFO: 金额为0用例执行有误
+2019-11-24 15:31:11,609 - [test_03_recharge.py-->line:82] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-24 15:31:11,710 - [test_03_recharge.py-->line:85] -INFO: 金额大于50万用例执行通过
+2019-11-24 15:31:11,865 - [test_03_recharge.py-->line:85] -INFO: 金额三位小数用例执行通过
+2019-11-24 15:31:12,023 - [test_03_recharge.py-->line:85] -INFO: 金额为负数用例执行通过
+2019-11-24 15:31:12,172 - [test_03_recharge.py-->line:85] -INFO: 金额为字符串用例执行通过
+2019-11-24 15:31:12,324 - [test_03_recharge.py-->line:85] -INFO: id和金额都为空用例执行通过
+2019-11-25 13:43:49,926 - [test_03_recharge.py-->line:88] -INFO: 不登录充值用例执行通过
+2019-11-25 13:43:50,123 - [test_03_recharge.py-->line:88] -INFO: 正常登录用例执行通过
+2019-11-25 13:43:50,398 - [test_03_recharge.py-->line:88] -INFO: 成功充值-整数用例执行通过
+2019-11-25 13:43:50,668 - [test_03_recharge.py-->line:88] -INFO: 成功充值-一位小数用例执行通过
+2019-11-25 13:43:50,937 - [test_03_recharge.py-->line:88] -INFO: 成功充值-两位小数用例执行通过
+2019-11-25 13:43:51,220 - [test_03_recharge.py-->line:88] -INFO: 成功充值50万用例执行通过
+2019-11-25 13:43:51,363 - [test_03_recharge.py-->line:88] -INFO: id为空用例执行通过
+2019-11-25 13:43:51,746 - [test_03_recharge.py-->line:88] -INFO: id不存在用例执行通过
+2019-11-25 13:43:51,887 - [test_03_recharge.py-->line:88] -INFO: id为字符串用例执行通过
+2019-11-25 13:43:52,026 - [test_03_recharge.py-->line:88] -INFO: id为浮点数用例执行通过
+2019-11-25 13:43:52,176 - [test_03_recharge.py-->line:81] -INFO: 金额为空用例执行有误
+2019-11-25 13:43:52,226 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为金额为空 :: 1 != 2
+2019-11-25 13:43:52,470 - [test_03_recharge.py-->line:81] -INFO: 金额为0用例执行有误
+2019-11-25 13:43:52,528 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为金额为0 :: 2 != 0
+2019-11-25 13:43:52,635 - [test_03_recharge.py-->line:88] -INFO: 金额大于50万用例执行通过
+2019-11-25 13:43:52,793 - [test_03_recharge.py-->line:88] -INFO: 金额三位小数用例执行通过
+2019-11-25 13:43:52,943 - [test_03_recharge.py-->line:88] -INFO: 金额为负数用例执行通过
+2019-11-25 13:43:53,089 - [test_03_recharge.py-->line:88] -INFO: 金额为字符串用例执行通过
+2019-11-25 13:43:53,235 - [test_03_recharge.py-->line:88] -INFO: id和金额都为空用例执行通过
+2019-11-28 15:33:50,079 - [test_04_add.py-->line:73] -INFO: 不登录-加标用例执行通过
+2019-11-28 15:33:50,449 - [test_04_add.py-->line:73] -INFO: 正常登录用例执行通过
+2019-11-28 15:33:50,772 - [test_04_add.py-->line:73] -INFO: 加标成功用例执行通过
+2019-11-28 15:33:51,095 - [test_04_add.py-->line:73] -INFO: 借款人id为空用例执行通过
+2019-11-28 15:33:51,434 - [test_04_add.py-->line:73] -INFO: 标题为空用例执行通过
+2019-11-28 15:33:51,751 - [test_04_add.py-->line:73] -INFO: 借款金额为空用例执行通过
+2019-11-28 15:33:52,071 - [test_04_add.py-->line:73] -INFO: 年利率为空用例执行通过
+2019-11-28 15:33:52,397 - [test_04_add.py-->line:73] -INFO: 借款期限为空用例执行通过
+2019-11-28 15:33:52,720 - [test_04_add.py-->line:66] -INFO: 借款期限为字符串用例执行有误
+2019-11-28 15:33:52,784 - [test_04_add.py-->line:70] -ERROR: 具体异常为借款期限为字符串 :: 2 != 0
+2019-11-28 15:33:53,044 - [test_04_add.py-->line:73] -INFO: 借款期限类型为空用例执行通过
+2019-11-28 15:33:53,367 - [test_04_add.py-->line:73] -INFO: 竞标天数为空用例执行通过
+2019-11-28 15:33:53,686 - [test_04_add.py-->line:73] -INFO: 借款人id为负数用例执行通过
+2019-11-28 15:33:54,002 - [test_04_add.py-->line:66] -INFO: 借款人id为小数用例执行有误
+2019-11-28 15:33:54,068 - [test_04_add.py-->line:70] -ERROR: 具体异常为借款人id为小数 :: 2 != 1007
+2019-11-28 15:33:54,552 - [test_04_add.py-->line:73] -INFO: 借款金额为负数用例执行通过
+2019-11-28 15:33:54,889 - [test_04_add.py-->line:73] -INFO: 借款金额为小数用例执行通过
+2019-11-28 16:19:11,940 - [test_05_invest.py-->line:66] -INFO: 借款人正常登录用例执行有误
+2019-11-28 16:19:12,273 - [test_05_invest.py-->line:66] -INFO: 借款人加标用例执行有误
+2019-11-28 16:19:12,566 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:19:12,957 - [test_05_invest.py-->line:66] -INFO: 投资人正常登录用例执行有误
+2019-11-28 16:19:13,493 - [test_05_invest.py-->line:66] -INFO: 标id为空用例执行有误
+2019-11-28 16:19:14,971 - [test_05_invest.py-->line:66] -INFO: 标id不存在用例执行有误
+2019-11-28 16:20:01,139 - [test_05_invest.py-->line:66] -INFO: 借款人正常登录用例执行有误
+2019-11-28 16:20:01,206 - [test_05_invest.py-->line:70] -ERROR: 具体异常为借款人正常登录 :: 0 != 2
+2019-11-28 16:20:01,468 - [test_05_invest.py-->line:66] -INFO: 借款人加标用例执行有误
+2019-11-28 16:20:01,533 - [test_05_invest.py-->line:70] -ERROR: 具体异常为借款人加标 :: 0 != 1003
+2019-11-28 16:20:01,791 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:20:02,249 - [test_05_invest.py-->line:66] -INFO: 投资人正常登录用例执行有误
+2019-11-28 16:20:02,312 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资人正常登录 :: 0 != 2
+2019-11-28 16:20:02,869 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:20:04,431 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:25:02,211 - [test_05_invest.py-->line:66] -INFO: 借款人正常登录用例执行有误
+2019-11-28 16:25:02,373 - [test_05_invest.py-->line:70] -ERROR: 具体异常为借款人正常登录 :: 0 != 2
+2019-11-28 16:25:02,807 - [test_05_invest.py-->line:66] -INFO: 借款人加标用例执行有误
+2019-11-28 16:25:02,960 - [test_05_invest.py-->line:70] -ERROR: 具体异常为借款人加标 :: 0 != 1003
+2019-11-28 16:25:03,402 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:25:04,172 - [test_05_invest.py-->line:66] -INFO: 投资人正常登录用例执行有误
+2019-11-28 16:25:04,324 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资人正常登录 :: 0 != 2
+2019-11-28 16:25:05,156 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:25:07,398 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:28:10,137 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:28:10,469 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:28:10,790 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:28:11,112 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:28:11,447 - [test_05_invest.py-->line:66] -INFO: 投资人正常登录用例执行有误
+2019-11-28 16:28:11,511 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资人正常登录 :: 0 != 2
+2019-11-28 16:28:11,771 - [test_05_invest.py-->line:66] -INFO: 投资人正常投资用例执行有误
+2019-11-28 16:28:11,836 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资人正常投资 :: 0 != 1007
+2019-11-28 16:28:12,092 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:28:12,433 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:28:12,759 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:28:13,080 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:28:13,406 - [test_05_invest.py-->line:66] -INFO: 投资人id为字符串用例执行有误
+2019-11-28 16:28:13,468 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资人id为字符串 :: 2 != 1007
+2019-11-28 16:28:13,728 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:28:14,062 - [test_05_invest.py-->line:66] -INFO: 标id为字符串用例执行有误
+2019-11-28 16:28:14,124 - [test_05_invest.py-->line:70] -ERROR: 具体异常为标id为字符串 :: 2 != 1007
+2019-11-28 16:28:14,388 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:28:14,723 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:28:15,267 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:28:15,595 - [test_05_invest.py-->line:66] -INFO: 投资金额大于项目的剩余可投金额用例执行有误
+2019-11-28 16:28:15,665 - [test_05_invest.py-->line:70] -ERROR: 具体异常为投资金额大于项目的剩余可投金额 :: 2 != 1007
+2019-11-28 16:30:06,718 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:30:07,062 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:30:07,400 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:30:07,724 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:30:08,081 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:30:08,416 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:30:08,729 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:30:09,056 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:30:09,372 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:30:09,688 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:30:10,011 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:30:10,326 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:30:10,649 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:30:10,962 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:30:11,272 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:30:11,794 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:30:12,119 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:31:14,876 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:31:15,211 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:31:15,554 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:31:15,879 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:31:16,239 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:31:16,587 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:31:16,907 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:31:17,224 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:31:17,544 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:31:17,868 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:31:18,213 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:31:18,529 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:31:18,849 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:31:19,168 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:31:19,494 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:31:20,013 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:31:20,330 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:35:22,451 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:35:22,779 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:35:23,139 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:35:23,473 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:35:23,832 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:35:24,183 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:35:24,497 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:35:24,815 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:35:25,136 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:35:25,468 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:35:25,788 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:35:26,116 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:35:26,445 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:35:26,762 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:35:27,082 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:35:27,458 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-11-28 16:35:27,839 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:35:28,160 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:35:43,028 - [test_04_add.py-->line:69] -INFO: 不登录-加标用例执行通过
+2019-11-28 16:35:43,381 - [test_04_add.py-->line:69] -INFO: 正常登录用例执行通过
+2019-11-28 16:35:43,711 - [test_04_add.py-->line:69] -INFO: 加标成功用例执行通过
+2019-11-28 16:35:44,024 - [test_04_add.py-->line:69] -INFO: 借款人id为空用例执行通过
+2019-11-28 16:35:44,344 - [test_04_add.py-->line:69] -INFO: 标题为空用例执行通过
+2019-11-28 16:35:44,662 - [test_04_add.py-->line:69] -INFO: 借款金额为空用例执行通过
+2019-11-28 16:35:44,979 - [test_04_add.py-->line:69] -INFO: 年利率为空用例执行通过
+2019-11-28 16:35:45,294 - [test_04_add.py-->line:69] -INFO: 借款期限为空用例执行通过
+2019-11-28 16:35:45,622 - [test_04_add.py-->line:62] -INFO: 借款期限为字符串用例执行有误
+2019-11-28 16:35:45,687 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 0 : 借款期限为字符串
+2019-11-28 16:35:45,944 - [test_04_add.py-->line:69] -INFO: 借款期限类型为空用例执行通过
+2019-11-28 16:35:46,267 - [test_04_add.py-->line:69] -INFO: 竞标天数为空用例执行通过
+2019-11-28 16:35:46,600 - [test_04_add.py-->line:69] -INFO: 借款人id为负数用例执行通过
+2019-11-28 16:35:46,919 - [test_04_add.py-->line:62] -INFO: 借款人id为小数用例执行有误
+2019-11-28 16:35:46,985 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 1007 : 借款人id为小数
+2019-11-28 16:35:47,383 - [test_04_add.py-->line:69] -INFO: 借款金额为负数用例执行通过
+2019-11-28 16:35:47,702 - [test_04_add.py-->line:69] -INFO: 借款金额为小数用例执行通过
+2019-11-28 16:35:48,201 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:35:48,557 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:35:48,922 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:35:49,247 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:35:49,614 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:35:49,954 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:35:50,270 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:35:50,591 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:35:50,906 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:35:51,221 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:35:51,544 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:35:51,862 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:35:52,189 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:35:52,511 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:35:52,848 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:35:53,222 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-11-28 16:35:53,603 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:35:53,922 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:37:30,421 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-28 16:37:30,863 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-28 16:37:31,313 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-28 16:37:31,777 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-28 16:37:32,113 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-28 16:37:32,434 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-28 16:37:32,748 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-28 16:37:33,156 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-28 16:37:33,561 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-28 16:37:34,053 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-28 16:37:34,392 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-28 16:37:34,818 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-28 16:37:35,149 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-28 16:37:35,525 - [test_02_login_case.py-->line:59] -INFO: 正常登录用例执行有误
+2019-11-28 16:37:35,593 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为0 != 2 : 正常登录
+2019-11-28 16:37:35,852 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-28 16:37:35,925 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-28 16:37:36,196 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-28 16:37:36,260 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-28 16:37:36,677 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-28 16:37:36,995 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-28 16:37:37,319 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-28 16:37:37,384 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-28 16:37:37,651 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-28 16:37:37,715 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-28 16:37:37,973 - [test_02_login_case.py-->line:59] -INFO: 密码错误用例执行有误
+2019-11-28 16:37:38,039 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1001 != 2 : 密码错误
+2019-11-28 16:37:38,293 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-28 16:37:38,357 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-28 16:37:38,616 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-28 16:37:38,684 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-28 16:37:39,126 - [test_03_recharge.py-->line:88] -INFO: 不登录充值用例执行通过
+2019-11-28 16:37:39,457 - [test_03_recharge.py-->line:81] -INFO: 正常登录用例执行有误
+2019-11-28 16:37:39,526 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为0 != 2 : 正常登录
+2019-11-28 16:37:39,990 - [test_03_recharge.py-->line:81] -INFO: 成功充值-整数用例执行有误
+2019-11-28 16:37:40,055 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为0 != 1003 : 成功充值-整数
+2019-11-28 16:37:40,519 - [test_03_recharge.py-->line:81] -INFO: 成功充值-一位小数用例执行有误
+2019-11-28 16:37:40,583 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为0 != 1003 : 成功充值-一位小数
+2019-11-28 16:37:41,059 - [test_03_recharge.py-->line:81] -INFO: 成功充值-两位小数用例执行有误
+2019-11-28 16:37:41,124 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为0 != 1003 : 成功充值-两位小数
+2019-11-28 16:37:41,576 - [test_03_recharge.py-->line:81] -INFO: 成功充值50万用例执行有误
+2019-11-28 16:37:41,643 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为0 != 1003 : 成功充值50万
+2019-11-28 16:37:41,894 - [test_03_recharge.py-->line:81] -INFO: id为空用例执行有误
+2019-11-28 16:37:41,978 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 1003 : id为空
+2019-11-28 16:37:42,280 - [test_03_recharge.py-->line:81] -INFO: id不存在用例执行有误
+2019-11-28 16:37:42,345 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1007 != 1003 : id不存在
+2019-11-28 16:37:42,595 - [test_03_recharge.py-->line:81] -INFO: id为字符串用例执行有误
+2019-11-28 16:37:42,661 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : id为字符串
+2019-11-28 16:37:42,914 - [test_03_recharge.py-->line:81] -INFO: id为浮点数用例执行有误
+2019-11-28 16:37:42,982 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : id为浮点数
+2019-11-28 16:37:43,237 - [test_03_recharge.py-->line:81] -INFO: 金额为空用例执行有误
+2019-11-28 16:37:43,302 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 1003 : 金额为空
+2019-11-28 16:37:43,556 - [test_03_recharge.py-->line:81] -INFO: 金额为0用例执行有误
+2019-11-28 16:37:43,623 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : 金额为0
+2019-11-28 16:37:43,881 - [test_03_recharge.py-->line:81] -INFO: 金额大于50万用例执行有误
+2019-11-28 16:37:43,949 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : 金额大于50万
+2019-11-28 16:37:44,201 - [test_03_recharge.py-->line:81] -INFO: 金额三位小数用例执行有误
+2019-11-28 16:37:44,270 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : 金额三位小数
+2019-11-28 16:37:44,538 - [test_03_recharge.py-->line:81] -INFO: 金额为负数用例执行有误
+2019-11-28 16:37:44,604 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : 金额为负数
+2019-11-28 16:37:44,857 - [test_03_recharge.py-->line:81] -INFO: 金额为字符串用例执行有误
+2019-11-28 16:37:44,923 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 1003 : 金额为字符串
+2019-11-28 16:37:45,176 - [test_03_recharge.py-->line:81] -INFO: id和金额都为空用例执行有误
+2019-11-28 16:37:45,243 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 1003 : id和金额都为空
+2019-11-28 16:37:45,543 - [test_04_add.py-->line:69] -INFO: 不登录-加标用例执行通过
+2019-11-28 16:37:45,888 - [test_04_add.py-->line:69] -INFO: 正常登录用例执行通过
+2019-11-28 16:37:46,219 - [test_04_add.py-->line:69] -INFO: 加标成功用例执行通过
+2019-11-28 16:37:46,546 - [test_04_add.py-->line:69] -INFO: 借款人id为空用例执行通过
+2019-11-28 16:37:46,887 - [test_04_add.py-->line:69] -INFO: 标题为空用例执行通过
+2019-11-28 16:37:47,209 - [test_04_add.py-->line:69] -INFO: 借款金额为空用例执行通过
+2019-11-28 16:37:47,540 - [test_04_add.py-->line:69] -INFO: 年利率为空用例执行通过
+2019-11-28 16:37:47,859 - [test_04_add.py-->line:69] -INFO: 借款期限为空用例执行通过
+2019-11-28 16:37:48,194 - [test_04_add.py-->line:62] -INFO: 借款期限为字符串用例执行有误
+2019-11-28 16:37:48,258 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 0 : 借款期限为字符串
+2019-11-28 16:37:48,533 - [test_04_add.py-->line:69] -INFO: 借款期限类型为空用例执行通过
+2019-11-28 16:37:48,854 - [test_04_add.py-->line:69] -INFO: 竞标天数为空用例执行通过
+2019-11-28 16:37:49,183 - [test_04_add.py-->line:69] -INFO: 借款人id为负数用例执行通过
+2019-11-28 16:37:49,502 - [test_04_add.py-->line:62] -INFO: 借款人id为小数用例执行有误
+2019-11-28 16:37:49,569 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 1007 : 借款人id为小数
+2019-11-28 16:37:49,996 - [test_04_add.py-->line:69] -INFO: 借款金额为负数用例执行通过
+2019-11-28 16:37:50,321 - [test_04_add.py-->line:69] -INFO: 借款金额为小数用例执行通过
+2019-11-28 16:37:50,823 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:37:51,151 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:37:51,523 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:37:51,851 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:37:52,200 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:37:52,543 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:37:52,863 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:37:53,187 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:37:53,507 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:37:53,824 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:37:54,154 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:37:54,492 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:37:54,840 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:37:55,170 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:37:55,502 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:37:55,892 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-11-28 16:37:56,299 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:37:56,622 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:42:27,342 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-28 16:42:27,849 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-28 16:42:28,316 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-28 16:42:28,795 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-28 16:42:29,130 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-28 16:42:29,446 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-28 16:42:29,784 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-28 16:42:30,198 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-28 16:42:30,630 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-28 16:42:31,040 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-28 16:42:31,359 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-28 16:42:31,803 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-28 16:42:32,138 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-28 16:42:32,518 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-28 16:42:32,845 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-28 16:42:32,914 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-28 16:42:33,170 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-28 16:42:33,235 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-28 16:42:33,633 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-28 16:42:33,950 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-28 16:42:34,267 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-28 16:42:34,331 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-28 16:42:34,583 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-28 16:42:34,647 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-28 16:42:34,929 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-28 16:42:35,248 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-28 16:42:35,317 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-28 16:42:35,587 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-28 16:42:35,651 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-28 16:42:36,102 - [test_03_recharge.py-->line:88] -INFO: 不登录充值用例执行通过
+2019-11-28 16:42:36,430 - [test_03_recharge.py-->line:88] -INFO: 正常登录用例执行通过
+2019-11-28 16:42:37,042 - [test_03_recharge.py-->line:88] -INFO: 成功充值-整数用例执行通过
+2019-11-28 16:42:37,646 - [test_03_recharge.py-->line:88] -INFO: 成功充值-一位小数用例执行通过
+2019-11-28 16:42:38,247 - [test_03_recharge.py-->line:88] -INFO: 成功充值-两位小数用例执行通过
+2019-11-28 16:42:38,841 - [test_03_recharge.py-->line:88] -INFO: 成功充值50万用例执行通过
+2019-11-28 16:42:39,162 - [test_03_recharge.py-->line:88] -INFO: id为空用例执行通过
+2019-11-28 16:42:39,555 - [test_03_recharge.py-->line:88] -INFO: id不存在用例执行通过
+2019-11-28 16:42:39,876 - [test_03_recharge.py-->line:88] -INFO: id为字符串用例执行通过
+2019-11-28 16:42:40,200 - [test_03_recharge.py-->line:88] -INFO: id为浮点数用例执行通过
+2019-11-28 16:42:40,520 - [test_03_recharge.py-->line:81] -INFO: 金额为空用例执行有误
+2019-11-28 16:42:40,586 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-28 16:42:40,848 - [test_03_recharge.py-->line:81] -INFO: 金额为0用例执行有误
+2019-11-28 16:42:40,915 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-28 16:42:41,174 - [test_03_recharge.py-->line:88] -INFO: 金额大于50万用例执行通过
+2019-11-28 16:42:41,491 - [test_03_recharge.py-->line:88] -INFO: 金额三位小数用例执行通过
+2019-11-28 16:42:41,836 - [test_03_recharge.py-->line:88] -INFO: 金额为负数用例执行通过
+2019-11-28 16:42:42,153 - [test_03_recharge.py-->line:88] -INFO: 金额为字符串用例执行通过
+2019-11-28 16:42:42,470 - [test_03_recharge.py-->line:88] -INFO: id和金额都为空用例执行通过
+2019-11-28 16:42:42,837 - [test_04_add.py-->line:69] -INFO: 不登录-加标用例执行通过
+2019-11-28 16:42:43,182 - [test_04_add.py-->line:69] -INFO: 正常登录用例执行通过
+2019-11-28 16:42:43,509 - [test_04_add.py-->line:69] -INFO: 加标成功用例执行通过
+2019-11-28 16:42:43,831 - [test_04_add.py-->line:69] -INFO: 借款人id为空用例执行通过
+2019-11-28 16:42:44,191 - [test_04_add.py-->line:69] -INFO: 标题为空用例执行通过
+2019-11-28 16:42:44,514 - [test_04_add.py-->line:69] -INFO: 借款金额为空用例执行通过
+2019-11-28 16:42:44,837 - [test_04_add.py-->line:69] -INFO: 年利率为空用例执行通过
+2019-11-28 16:42:45,155 - [test_04_add.py-->line:69] -INFO: 借款期限为空用例执行通过
+2019-11-28 16:42:45,498 - [test_04_add.py-->line:62] -INFO: 借款期限为字符串用例执行有误
+2019-11-28 16:42:45,562 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 0 : 借款期限为字符串
+2019-11-28 16:42:45,822 - [test_04_add.py-->line:69] -INFO: 借款期限类型为空用例执行通过
+2019-11-28 16:42:46,139 - [test_04_add.py-->line:69] -INFO: 竞标天数为空用例执行通过
+2019-11-28 16:42:46,462 - [test_04_add.py-->line:69] -INFO: 借款人id为负数用例执行通过
+2019-11-28 16:42:46,793 - [test_04_add.py-->line:62] -INFO: 借款人id为小数用例执行有误
+2019-11-28 16:42:46,862 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 1007 : 借款人id为小数
+2019-11-28 16:42:47,268 - [test_04_add.py-->line:69] -INFO: 借款金额为负数用例执行通过
+2019-11-28 16:42:47,591 - [test_04_add.py-->line:69] -INFO: 借款金额为小数用例执行通过
+2019-11-28 16:42:48,096 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:42:48,420 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:42:48,791 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:42:49,124 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:42:49,489 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:42:49,850 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:42:50,171 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:42:50,488 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:42:50,823 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:42:51,148 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:42:51,485 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:42:51,802 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:42:52,121 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:42:52,451 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:42:52,780 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:42:53,164 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-11-28 16:42:53,564 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:42:53,881 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-11-28 16:45:14,601 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-11-28 16:45:15,033 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-11-28 16:45:15,478 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-11-28 16:45:15,924 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-11-28 16:45:16,250 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-11-28 16:45:16,561 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-11-28 16:45:16,875 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-11-28 16:45:17,283 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-11-28 16:45:17,693 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-11-28 16:45:18,099 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-11-28 16:45:18,432 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-11-28 16:45:18,870 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-11-28 16:45:19,187 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-11-28 16:45:19,560 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-11-28 16:45:19,870 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-11-28 16:45:19,934 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-11-28 16:45:20,185 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-11-28 16:45:20,249 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-11-28 16:45:20,624 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-11-28 16:45:20,937 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-11-28 16:45:21,248 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-11-28 16:45:21,310 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-11-28 16:45:21,556 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-11-28 16:45:21,622 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-11-28 16:45:21,900 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-11-28 16:45:22,210 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-11-28 16:45:22,273 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-11-28 16:45:22,524 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-11-28 16:45:22,588 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-11-28 16:45:23,028 - [test_03_recharge.py-->line:88] -INFO: 不登录充值用例执行通过
+2019-11-28 16:45:23,350 - [test_03_recharge.py-->line:88] -INFO: 正常登录用例执行通过
+2019-11-28 16:45:23,965 - [test_03_recharge.py-->line:88] -INFO: 成功充值-整数用例执行通过
+2019-11-28 16:45:24,552 - [test_03_recharge.py-->line:88] -INFO: 成功充值-一位小数用例执行通过
+2019-11-28 16:45:25,146 - [test_03_recharge.py-->line:88] -INFO: 成功充值-两位小数用例执行通过
+2019-11-28 16:45:25,737 - [test_03_recharge.py-->line:88] -INFO: 成功充值50万用例执行通过
+2019-11-28 16:45:26,068 - [test_03_recharge.py-->line:88] -INFO: id为空用例执行通过
+2019-11-28 16:45:26,461 - [test_03_recharge.py-->line:88] -INFO: id不存在用例执行通过
+2019-11-28 16:45:26,779 - [test_03_recharge.py-->line:88] -INFO: id为字符串用例执行通过
+2019-11-28 16:45:27,090 - [test_03_recharge.py-->line:88] -INFO: id为浮点数用例执行通过
+2019-11-28 16:45:27,421 - [test_03_recharge.py-->line:81] -INFO: 金额为空用例执行有误
+2019-11-28 16:45:27,485 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-11-28 16:45:27,751 - [test_03_recharge.py-->line:81] -INFO: 金额为0用例执行有误
+2019-11-28 16:45:27,818 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-11-28 16:45:28,074 - [test_03_recharge.py-->line:88] -INFO: 金额大于50万用例执行通过
+2019-11-28 16:45:28,396 - [test_03_recharge.py-->line:88] -INFO: 金额三位小数用例执行通过
+2019-11-28 16:45:28,709 - [test_03_recharge.py-->line:88] -INFO: 金额为负数用例执行通过
+2019-11-28 16:45:29,023 - [test_03_recharge.py-->line:88] -INFO: 金额为字符串用例执行通过
+2019-11-28 16:45:29,333 - [test_03_recharge.py-->line:88] -INFO: id和金额都为空用例执行通过
+2019-11-28 16:45:29,680 - [test_04_add.py-->line:69] -INFO: 不登录-加标用例执行通过
+2019-11-28 16:45:30,025 - [test_04_add.py-->line:69] -INFO: 正常登录用例执行通过
+2019-11-28 16:45:30,343 - [test_04_add.py-->line:69] -INFO: 加标成功用例执行通过
+2019-11-28 16:45:30,669 - [test_04_add.py-->line:69] -INFO: 借款人id为空用例执行通过
+2019-11-28 16:45:30,995 - [test_04_add.py-->line:69] -INFO: 标题为空用例执行通过
+2019-11-28 16:45:31,307 - [test_04_add.py-->line:69] -INFO: 借款金额为空用例执行通过
+2019-11-28 16:45:31,617 - [test_04_add.py-->line:69] -INFO: 年利率为空用例执行通过
+2019-11-28 16:45:31,928 - [test_04_add.py-->line:69] -INFO: 借款期限为空用例执行通过
+2019-11-28 16:45:32,254 - [test_04_add.py-->line:62] -INFO: 借款期限为字符串用例执行有误
+2019-11-28 16:45:32,317 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 0 : 借款期限为字符串
+2019-11-28 16:45:32,575 - [test_04_add.py-->line:69] -INFO: 借款期限类型为空用例执行通过
+2019-11-28 16:45:32,902 - [test_04_add.py-->line:69] -INFO: 竞标天数为空用例执行通过
+2019-11-28 16:45:33,219 - [test_04_add.py-->line:69] -INFO: 借款人id为负数用例执行通过
+2019-11-28 16:45:33,533 - [test_04_add.py-->line:62] -INFO: 借款人id为小数用例执行有误
+2019-11-28 16:45:33,596 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 1007 : 借款人id为小数
+2019-11-28 16:45:33,907 - [test_04_add.py-->line:69] -INFO: 借款人id不存在用例执行通过
+2019-11-28 16:45:34,223 - [test_04_add.py-->line:69] -INFO: 借款金额为负数用例执行通过
+2019-11-28 16:45:34,548 - [test_04_add.py-->line:69] -INFO: 借款金额为小数用例执行通过
+2019-11-28 16:45:35,045 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-11-28 16:45:35,397 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-11-28 16:45:35,746 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-11-28 16:45:36,067 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-11-28 16:45:36,409 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-11-28 16:45:36,943 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-11-28 16:45:37,255 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-11-28 16:45:37,568 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-11-28 16:45:37,887 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-11-28 16:45:38,215 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-11-28 16:45:38,538 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-11-28 16:45:38,856 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-11-28 16:45:39,384 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-11-28 16:45:39,695 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-11-28 16:45:40,008 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-11-28 16:45:40,411 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-11-28 16:45:40,780 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-11-28 16:45:41,100 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-12-05 13:36:08,740 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-12-05 13:36:09,138 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-12-05 13:36:09,545 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-12-05 13:36:09,928 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-12-05 13:36:10,236 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-12-05 13:36:10,544 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-12-05 13:36:11,094 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-12-05 13:36:11,464 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-12-05 13:36:11,835 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-12-05 13:36:12,206 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-12-05 13:36:12,521 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-12-05 13:36:12,893 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-12-05 13:36:13,231 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-12-05 13:36:13,591 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-12-05 13:36:13,922 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-12-05 13:36:13,996 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号为空
+2019-12-05 13:36:14,383 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-12-05 13:36:14,469 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 手机号不传
+2019-12-05 13:36:14,783 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-12-05 13:36:15,090 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-12-05 13:36:15,401 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-12-05 13:36:15,465 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码为空
+2019-12-05 13:36:15,723 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-12-05 13:36:15,789 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码不传
+2019-12-05 13:36:16,043 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-12-05 13:36:16,360 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-12-05 13:36:16,423 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都为空
+2019-12-05 13:36:16,675 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-12-05 13:36:16,738 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为1 != 2 : 密码手机号都不传
+2019-12-05 13:36:18,165 - [test_03_recharge.py-->line:88] -INFO: 不登录充值用例执行通过
+2019-12-05 13:36:18,491 - [test_03_recharge.py-->line:88] -INFO: 正常登录用例执行通过
+2019-12-05 13:36:19,066 - [test_03_recharge.py-->line:88] -INFO: 成功充值-整数用例执行通过
+2019-12-05 13:36:19,629 - [test_03_recharge.py-->line:88] -INFO: 成功充值-一位小数用例执行通过
+2019-12-05 13:36:20,200 - [test_03_recharge.py-->line:88] -INFO: 成功充值-两位小数用例执行通过
+2019-12-05 13:36:20,784 - [test_03_recharge.py-->line:88] -INFO: 成功充值50万用例执行通过
+2019-12-05 13:36:21,111 - [test_03_recharge.py-->line:88] -INFO: id为空用例执行通过
+2019-12-05 13:36:21,475 - [test_03_recharge.py-->line:88] -INFO: id不存在用例执行通过
+2019-12-05 13:36:21,783 - [test_03_recharge.py-->line:88] -INFO: id为字符串用例执行通过
+2019-12-05 13:36:22,101 - [test_03_recharge.py-->line:88] -INFO: id为浮点数用例执行通过
+2019-12-05 13:36:22,422 - [test_03_recharge.py-->line:81] -INFO: 金额为空用例执行有误
+2019-12-05 13:36:22,485 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为1 != 2 : 金额为空
+2019-12-05 13:36:22,756 - [test_03_recharge.py-->line:81] -INFO: 金额为0用例执行有误
+2019-12-05 13:36:22,819 - [test_03_recharge.py-->line:85] -ERROR: 具体异常为2 != 0 : 金额为0
+2019-12-05 13:36:23,064 - [test_03_recharge.py-->line:88] -INFO: 金额大于50万用例执行通过
+2019-12-05 13:36:23,376 - [test_03_recharge.py-->line:88] -INFO: 金额三位小数用例执行通过
+2019-12-05 13:36:23,691 - [test_03_recharge.py-->line:88] -INFO: 金额为负数用例执行通过
+2019-12-05 13:36:24,003 - [test_03_recharge.py-->line:88] -INFO: 金额为字符串用例执行通过
+2019-12-05 13:36:24,308 - [test_03_recharge.py-->line:88] -INFO: id和金额都为空用例执行通过
+2019-12-05 13:36:24,653 - [test_04_add.py-->line:69] -INFO: 不登录-加标用例执行通过
+2019-12-05 13:36:24,964 - [test_04_add.py-->line:69] -INFO: 正常登录用例执行通过
+2019-12-05 13:36:25,277 - [test_04_add.py-->line:69] -INFO: 加标成功用例执行通过
+2019-12-05 13:36:25,602 - [test_04_add.py-->line:69] -INFO: 借款人id为空用例执行通过
+2019-12-05 13:36:25,910 - [test_04_add.py-->line:69] -INFO: 标题为空用例执行通过
+2019-12-05 13:36:26,210 - [test_04_add.py-->line:69] -INFO: 借款金额为空用例执行通过
+2019-12-05 13:36:26,521 - [test_04_add.py-->line:69] -INFO: 年利率为空用例执行通过
+2019-12-05 13:36:26,827 - [test_04_add.py-->line:69] -INFO: 借款期限为空用例执行通过
+2019-12-05 13:36:27,365 - [test_04_add.py-->line:62] -INFO: 借款期限为字符串用例执行有误
+2019-12-05 13:36:27,427 - [test_04_add.py-->line:66] -ERROR: 具体异常为2 != 0 : 借款期限为字符串
+2019-12-05 13:36:27,781 - [test_04_add.py-->line:69] -INFO: 借款期限类型为空用例执行通过
+2019-12-05 13:36:28,106 - [test_04_add.py-->line:69] -INFO: 竞标天数为空用例执行通过
+2019-12-05 13:36:28,439 - [test_04_add.py-->line:69] -INFO: 借款人id为负数用例执行通过
+2019-12-05 13:36:28,751 - [test_04_add.py-->line:69] -INFO: 借款人id为小数用例执行通过
+2019-12-05 13:36:29,113 - [test_04_add.py-->line:69] -INFO: 借款人id不存在用例执行通过
+2019-12-05 13:36:29,425 - [test_04_add.py-->line:69] -INFO: 借款金额为负数用例执行通过
+2019-12-05 13:36:29,735 - [test_04_add.py-->line:69] -INFO: 借款金额为小数用例执行通过
+2019-12-05 13:36:30,244 - [test_05_invest.py-->line:73] -INFO: 借款人正常登录用例执行通过
+2019-12-05 13:36:30,589 - [test_05_invest.py-->line:73] -INFO: 借款人加标用例执行通过
+2019-12-05 13:36:30,905 - [test_05_invest.py-->line:73] -INFO: 管理员正常登录用例执行通过
+2019-12-05 13:36:31,225 - [test_05_invest.py-->line:73] -INFO: 管理员审核用例执行通过
+2019-12-05 13:36:31,545 - [test_05_invest.py-->line:73] -INFO: 投资人正常登录用例执行通过
+2019-12-05 13:36:32,087 - [test_05_invest.py-->line:73] -INFO: 投资人正常投资用例执行通过
+2019-12-05 13:36:32,398 - [test_05_invest.py-->line:73] -INFO: 投资人id为空用例执行通过
+2019-12-05 13:36:32,712 - [test_05_invest.py-->line:73] -INFO: 标id为空用例执行通过
+2019-12-05 13:36:33,031 - [test_05_invest.py-->line:73] -INFO: 投资金额为空用例执行通过
+2019-12-05 13:36:33,353 - [test_05_invest.py-->line:73] -INFO: 投资人id为负数用例执行通过
+2019-12-05 13:36:33,889 - [test_05_invest.py-->line:73] -INFO: 投资人id为字符串用例执行通过
+2019-12-05 13:36:34,197 - [test_05_invest.py-->line:73] -INFO: 标id为负数用例执行通过
+2019-12-05 13:36:34,715 - [test_05_invest.py-->line:73] -INFO: 标id为字符串用例执行通过
+2019-12-05 13:36:35,025 - [test_05_invest.py-->line:73] -INFO: 投资金额为负数用例执行通过
+2019-12-05 13:36:35,341 - [test_05_invest.py-->line:73] -INFO: 投资金额为不能被100整除的数用例执行通过
+2019-12-05 13:36:35,730 - [test_05_invest.py-->line:73] -INFO: 投资人id不存在用例执行通过
+2019-12-05 13:36:36,117 - [test_05_invest.py-->line:73] -INFO: 标id不存在用例执行通过
+2019-12-05 13:36:36,434 - [test_05_invest.py-->line:73] -INFO: 投资金额大于项目的剩余可投金额用例执行通过
+2019-12-10 16:46:57,874 - [test_01_register_case.py-->line:63] -INFO: 完整参数用例执行通过
+2019-12-10 16:46:58,313 - [test_01_register_case.py-->line:63] -INFO: 无注册名用例执行通过
+2019-12-10 16:46:58,727 - [test_01_register_case.py-->line:63] -INFO: 无类型用例执行通过
+2019-12-10 16:46:59,161 - [test_01_register_case.py-->line:63] -INFO: 无注册名和类型用例执行通过
+2019-12-10 16:46:59,483 - [test_01_register_case.py-->line:63] -INFO: 手机号为空用例执行通过
+2019-12-10 16:46:59,788 - [test_01_register_case.py-->line:63] -INFO: 手机号小于11位用例执行通过
+2019-12-10 16:47:00,098 - [test_01_register_case.py-->line:63] -INFO: 手机号大于11位用例执行通过
+2019-12-10 16:47:00,490 - [test_01_register_case.py-->line:63] -INFO: 密码为空用例执行通过
+2019-12-10 16:47:00,886 - [test_01_register_case.py-->line:63] -INFO: 密码小于8位用例执行通过
+2019-12-10 16:47:01,274 - [test_01_register_case.py-->line:63] -INFO: 密码大于16位用例执行通过
+2019-12-10 16:47:01,587 - [test_01_register_case.py-->line:63] -INFO: 手机号已注册用例执行通过
+2019-12-10 16:47:01,974 - [test_01_register_case.py-->line:63] -INFO: 密码字段未传用例执行通过
+2019-12-10 16:47:02,282 - [test_01_register_case.py-->line:63] -INFO: 手机号字段未传用例执行通过
+2019-12-10 17:25:33,636 - [test_02_login_case.py-->line:66] -INFO: 正常登录用例执行通过
+2019-12-10 17:25:33,947 - [test_02_login_case.py-->line:59] -INFO: 手机号为空用例执行有误
+2019-12-10 17:25:34,008 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为手机号为空 :: 1 != 2
+2019-12-10 17:25:34,354 - [test_02_login_case.py-->line:59] -INFO: 手机号不传用例执行有误
+2019-12-10 17:25:34,418 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为手机号不传 :: 1 != 2
+2019-12-10 17:25:34,779 - [test_02_login_case.py-->line:66] -INFO: 手机号未注册用例执行通过
+2019-12-10 17:25:35,114 - [test_02_login_case.py-->line:66] -INFO: 手机号错误用例执行通过
+2019-12-10 17:25:35,431 - [test_02_login_case.py-->line:59] -INFO: 密码为空用例执行有误
+2019-12-10 17:25:35,492 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为密码为空 :: 1 != 2
+2019-12-10 17:25:35,741 - [test_02_login_case.py-->line:59] -INFO: 密码不传用例执行有误
+2019-12-10 17:25:35,805 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为密码不传 :: 1 != 2
+2019-12-10 17:25:36,070 - [test_02_login_case.py-->line:66] -INFO: 密码错误用例执行通过
+2019-12-10 17:25:36,378 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都为空用例执行有误
+2019-12-10 17:25:36,442 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为密码手机号都为空 :: 1 != 2
+2019-12-10 17:25:36,710 - [test_02_login_case.py-->line:59] -INFO: 密码手机号都不传用例执行有误
+2019-12-10 17:25:36,774 - [test_02_login_case.py-->line:63] -ERROR: 具体异常为密码手机号都不传 :: 1 != 2
